@@ -1,7 +1,7 @@
 server {
 	listen 80;
 
-	root /var/www/html/cyberpdx_www;
+	root /home/wuchang/cyberpdx_www;
 
 	index index.html index.htm index.nginx-debian.html;
 
